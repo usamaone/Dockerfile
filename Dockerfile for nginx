@@ -1,0 +1,3 @@
+FROM nginx
+ MAINTAIENR usama
+ EXPOSE 90
