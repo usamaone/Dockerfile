@@ -1,0 +1,3 @@
+FROM jenkins/jenkins
+ MAINTAINER intelliqit
+ USER root
