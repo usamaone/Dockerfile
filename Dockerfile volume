@@ -1,0 +1,4 @@
+vim dockerfile
+ FROM ubuntu
+ MAINTAINER usama
+ VOLUME /data
